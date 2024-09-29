@@ -1,0 +1,49 @@
+                    Глова 1 по программированнию:
+
+<hr>
+<address> - Добавляет аддреса на сайты по типо London, UK.
+<abbr title= "HTML"> HTLM<abbr> - Это поздскаски.
+<pre> - пробелы, отсупы т.д
+Пронумерованый список: <ol> (тег <li> елемент списка )
+<p title= "02/02/2008"> 16 years old </p> - поздскаски
+<a> </a> создание сыллки 
+<href=" "> - сыллки на соцеальные сети
+<a href="Anysite put here">GitHub</a> - сыллка для сайта
+target="_self" - по умолчанию
+target="_blank" - будет открываться в другой владке
+
+                        Глова 2 по программированнию:
+
+<a href="where">where I've done it - переход на страницу другую
+<a href="How">How I Do It
+<a href="more + contact">more + contact
+
+target="_self" - по умолчанию
+target="_blank" - будет открываться в другой владке
+
+
+<title> whwre I've done it </title>
+<title> How I Do It </title> 
+<title> more + contact </title>
+
+
+                        Для CSS подключение: 
+<link> 
+href="folder"/app - пример.
+
+
+                        Для JavaScript:
+<sript> </script> - JacaScript
+
+
+
+                                                <h1> <b> My social media: </b> </h1>
+                        <a href="https://twitter.com/cousyeas"><p> Twitter <p> </a>
+                        <a href="https://github.com/cousyes"> <p> GitHub <p> </a>
+                        <a href="https://www.linkedin.com/in/cousyes/"> <p> Linkedin <p> </a>
+                        <a href="https://linktr.ee/cousyes"> <p> linktr<p> </a> 
+                
+                            <h1> <b> About a site more:     </b> </h1>
+                        <a href="where I've done it.html">Where • Couse</a>
+                        <a href="contact + more.html">/etc • Couse</a>
+                

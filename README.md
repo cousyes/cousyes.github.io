@@ -1,6 +1,6 @@
 <h2> Welcome to the my repozetory! </h2>
 
-<strong> This is the HTLM app that runs on https://cousyes.github.io/ </strong> 
+<strong> This is the HTLM that runs on https://cousyes.github.io/ </strong> 
 
 <strong> 
 MIT License
